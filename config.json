@@ -1,0 +1,13 @@
+{
+  "RTU": {
+    "portName": "COM3",
+    "baudRate": 19200,
+    "dataBits": 8,
+    "parity": "Even",
+    "stopBits": 1,
+    "rtsEnable": true,
+    "dtrEnable": false
+  },
+  "IEC104_TCP": "192.168.2.21:2404",
+  "TimePollRTU": 5
+}

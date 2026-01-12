@@ -1,0 +1,437 @@
+2025-12-30 10:36:52.215 [ERROR] RTU start error: Could not find file 'COM6'.
+2025-12-30 10:36:52.216 [INFO] RTU stopped.
+2025-12-30 12:23:50.261 [INFO] Serial port opened on COM1 at 19200.
+2025-12-30 12:23:50.263 [INFO] RTU Master READY
+2025-12-30 12:23:57.303 [ERROR] RTU start error: A task was canceled.
+2025-12-30 12:23:57.305 [INFO] RTU stopped.
+2025-12-30 12:32:33.806 [ERROR] RTU start error: Access to the path 'COM1' is denied.
+2025-12-30 12:32:33.807 [INFO] RTU stopped.
+2025-12-30 12:32:41.514 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.522 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.523 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.524 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.525 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.525 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.526 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:41.527 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.607 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.608 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.608 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.609 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.609 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.610 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.610 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:32:57.611 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.717 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.718 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.719 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.720 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.721 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.722 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.723 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:13.723 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.833 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.835 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.836 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.837 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.837 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.838 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.838 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:29.839 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.927 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.930 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.934 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.936 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.938 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.941 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.942 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:33:45.944 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.052 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.053 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.053 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.054 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.054 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.055 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.055 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:02.056 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.162 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.163 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.163 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.164 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.165 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.166 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.166 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:18.167 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.263 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.264 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.266 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.267 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.267 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.268 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.269 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:34.269 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.341 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.341 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.342 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.342 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.343 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.343 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.344 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:34:50.344 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.454 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.455 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.456 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.456 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.456 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.457 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.457 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:06.458 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.540 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.541 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.541 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.542 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.542 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.543 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.544 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:22.544 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.629 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.630 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.631 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.631 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.632 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.633 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.634 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:38.635 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.740 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.741 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.742 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.742 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.743 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.744 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.744 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:35:54.745 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.832 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.833 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.833 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.833 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.834 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.834 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.835 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:10.836 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.457 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.457 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.458 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.458 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.459 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.459 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.460 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:34.460 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.567 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.568 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.569 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.570 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.571 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.572 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.573 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:36:50.573 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.677 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.679 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.681 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.682 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.683 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.685 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.689 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:06.691 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.801 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.803 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.804 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.806 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.807 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.809 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.810 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:22.811 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.909 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.910 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.910 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.911 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.911 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.912 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.912 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:37:38.913 [ERROR] ReadHoldingRegisters error: Object reference not set to an instance of an object.
+2025-12-30 12:38:01.188 [ERROR] RTU start error: Access to the path 'COM1' is denied.
+2025-12-30 12:38:01.188 [INFO] RTU stopped.
+2025-12-30 12:39:06.013 [INFO] Serial port opened on COM1 at 19200.
+2025-12-30 12:39:06.016 [INFO] RTU Master READY
+2025-12-30 17:01:08.944 [INFO] Serial port opened on COM1 at 19200.
+2025-12-30 17:01:08.947 [INFO] RTU Master READY
+2025-12-30 17:01:36.356 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:01:36.358 [INFO] RTU Master READY
+2025-12-30 17:08:54.290 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:08:54.294 [INFO] RTU stopped.
+2025-12-30 17:10:47.323 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:10:47.325 [INFO] RTU Master READY
+2025-12-30 17:13:06.203 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:13:06.206 [INFO] RTU Master READY
+2025-12-30 17:13:22.599 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:13:22.603 [INFO] RTU stopped.
+2025-12-30 17:14:37.058 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:14:37.059 [INFO] RTU Master READY
+2025-12-30 17:15:27.517 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:15:27.523 [INFO] RTU stopped.
+2025-12-30 17:15:51.996 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:15:51.998 [INFO] RTU Master READY
+2025-12-30 17:16:29.068 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:16:29.074 [INFO] RTU stopped.
+2025-12-30 17:17:21.977 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:17:21.981 [INFO] RTU Master READY
+2025-12-30 17:29:43.657 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:29:43.662 [INFO] RTU Master READY
+2025-12-30 17:31:40.394 [ERROR] ReadHoldingRegisters error: Argument numberOfPoints must be between 1 and 125 inclusive.
+2025-12-30 17:33:11.002 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:33:11.005 [INFO] RTU Master READY
+2025-12-30 17:33:40.800 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:33:40.802 [INFO] RTU Master READY
+2025-12-30 17:38:18.164 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:38:18.167 [INFO] RTU Master READY
+2025-12-30 17:39:50.139 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:39:50.146 [INFO] RTU stopped.
+2025-12-30 17:40:31.812 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:40:31.814 [INFO] RTU Master READY
+2025-12-30 17:42:28.091 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:42:28.094 [INFO] RTU Master READY
+2025-12-30 17:53:50.876 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:53:50.878 [INFO] RTU Master READY
+2025-12-30 17:54:10.373 [ERROR] RTU start error: A task was canceled.
+2025-12-30 17:54:10.381 [INFO] RTU stopped.
+2025-12-30 17:56:07.423 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 17:56:07.425 [INFO] RTU Master READY
+2025-12-30 17:56:30.642 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:05:43.520 [ERROR] RTU start error: A task was canceled.
+2025-12-30 18:05:43.531 [INFO] RTU stopped.
+2025-12-30 18:05:56.629 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 18:05:56.631 [INFO] RTU Master READY
+2025-12-30 18:12:33.234 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 18:12:33.236 [INFO] RTU Master READY
+2025-12-30 18:12:58.888 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:42:25.119 [ERROR] RTU start error: Could not find file 'COM3'.
+2025-12-30 18:42:25.120 [INFO] RTU stopped.
+2025-12-30 18:43:28.800 [ERROR] RTU start error: Could not find file 'COM3'.
+2025-12-30 18:43:28.801 [INFO] RTU stopped.
+2025-12-30 18:43:49.837 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 18:43:49.838 [INFO] RTU Master READY
+2025-12-30 18:43:58.002 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:04.357 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:13.673 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:16.706 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:25.796 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:28.824 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2025-12-30 18:44:41.217 [INFO] Serial port opened on COM3 at 19200.
+2025-12-30 18:44:41.218 [INFO] RTU Master READY
+2026-01-01 17:00:58.065 [ERROR] RTU start error: Could not find file 'COM3'.
+2026-01-01 17:00:58.066 [INFO] RTU stopped.
+2026-01-01 17:01:08.027 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:01:08.029 [INFO] RTU Master READY
+2026-01-01 17:01:14.529 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:20.853 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:27.199 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:33.513 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:39.856 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:46.195 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:01:58.293 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:01:58.295 [INFO] RTU Master READY
+2026-01-01 17:02:04.692 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:02:11.003 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:02:17.388 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:02:23.724 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:02:40.994 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:02:40.996 [INFO] RTU Master READY
+2026-01-01 17:03:59.411 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:03:59.413 [INFO] RTU Master READY
+2026-01-01 17:04:34.063 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:05:38.464 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:05:38.466 [INFO] RTU Master READY
+2026-01-01 17:15:58.451 [INFO] Serial port opened on COM1 at 19200.
+2026-01-01 17:15:58.454 [INFO] RTU Master READY
+2026-01-01 17:16:05.357 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:16:11.725 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 17:16:18.082 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:10.056 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:16.416 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:22.752 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:29.067 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:35.403 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:41.770 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:48.115 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:03:54.456 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:00.795 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:07.137 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:13.484 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:19.836 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:26.186 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:32.542 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:38.893 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:45.248 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:51.595 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:04:57.932 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:05:04.260 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:05:10.594 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:05:16.936 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:05:23.281 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:05:29.615 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:11:47.509 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:11:53.829 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:12:00.154 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:12:06.461 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:12:12.795 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:12:19.123 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:02.942 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:09.238 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:15.546 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:21.848 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:28.162 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:15:34.480 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:17.246 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:23.547 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:29.858 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:36.157 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:42.468 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:18:48.775 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:21:31.777 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:21:38.089 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:21:44.440 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:21:50.784 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:21:57.124 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:22:03.458 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:24:47.169 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:24:53.527 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:24:59.899 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:25:06.250 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:25:12.631 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:25:18.989 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:02.673 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:09.015 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:15.363 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:21.689 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:28.019 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:28:34.371 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:18.183 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:24.534 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:30.869 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:37.190 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:43.567 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:31:49.897 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:34:33.523 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:34:39.864 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:34:46.231 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:34:52.568 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:34:58.912 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:35:05.227 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:37:48.972 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:37:55.327 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:38:01.664 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:38:08.009 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:38:14.338 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 18:38:20.673 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:13:52.991 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:14:23.582 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:14:54.217 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:15:24.795 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:15:55.382 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:16:25.928 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:16:56.524 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:17:27.081 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:17:57.659 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:18:28.275 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:25:21.713 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:25:52.324 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:26:22.916 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:26:53.560 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:27:24.189 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:27:54.749 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:29:10.786 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:29:41.465 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:30:05.818 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:30:30.144 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:31:00.702 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:32:02.127 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:32:26.522 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:32:50.857 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:33:15.234 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:33:45.804 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:34:16.336 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:35:26.160 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:37:42.034 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:38:06.271 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:38:30.530 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:39:01.562 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:39:36.999 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:40:17.505 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:40:41.796 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:41:06.091 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:41:36.579 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:42:07.030 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:42:31.330 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:42:55.596 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:43:19.906 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:43:44.144 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:44:08.415 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:44:49.531 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:45:13.792 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:45:38.013 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:46:02.303 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:46:26.572 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:46:50.795 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:47:21.298 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:49:15.309 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:49:39.565 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:50:03.859 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:50:28.183 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:50:58.699 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:51:29.100 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 21:51:59.558 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 22:31:47.851 [ERROR] Slave ID:1,Address:4352 error: The operation has timed out.
+2026-01-01 22:31:54.413 [ERROR] Slave ID:3,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:00.774 [ERROR] Slave ID:4,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:07.168 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 22:32:18.551 [ERROR] Slave ID:1,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:25.057 [ERROR] Slave ID:3,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:31.446 [ERROR] Slave ID:4,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:37.825 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 22:32:49.208 [ERROR] Slave ID:1,Address:4352 error: The operation has timed out.
+2026-01-01 22:32:55.666 [ERROR] Slave ID:3,Address:4352 error: The operation has timed out.
+2026-01-01 22:33:02.034 [ERROR] Slave ID:4,Address:4352 error: The operation has timed out.
+2026-01-01 22:33:08.393 [ERROR] ReadHoldingRegisters error: The operation has timed out.
+2026-01-01 22:33:19.803 [ERROR] Slave ID:1,Address:4352 error: The operation has timed out.
+2026-01-01 22:33:26.305 [ERROR] Slave ID:3,Address:4352 error: The operation has timed out.
+2026-01-01 22:35:21.391 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:35:27.928 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:35:34.273 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:36:58.341 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:37:04.880 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:37:11.245 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:37:17.625 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:37:29.023 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:37:35.484 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:39:28.462 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:39:34.961 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:39:41.299 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:39:47.640 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:39:58.970 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:05.434 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:11.772 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:18.092 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:40:29.439 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:35.912 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:42.232 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:40:48.572 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:41:03.479 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:41:09.856 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:41:16.182 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:41:27.778 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:41:34.108 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:41:40.412 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-01 22:41:52.024 [ERROR] Slave ID:3,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:41:58.336 [ERROR] Slave ID:4,Address:4352, FC3 error: The operation has timed out.
+2026-01-01 22:42:04.656 [ERROR] Slave ID:10,Address:0, FC4 error: The operation has timed out.
+2026-01-02 16:12:01.810 [ERROR] Slave ID:1,Address:4352, FC3 error: The operation has timed out.
+2026-01-02 16:12:08.186 [ERROR] Slave ID:2,Address:4352, FC3 error: The operation has timed out.
