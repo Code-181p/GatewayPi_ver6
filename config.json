@@ -1,13 +1,13 @@
 {
   "RTU": {
-    "portName": "COM3",
-    "baudRate": 19200,
+    "portName": "/dev/ttyUSB0",
+    "baudRate": 9600,
     "dataBits": 8,
     "parity": "Even",
     "stopBits": 1,
     "rtsEnable": true,
     "dtrEnable": false
   },
-  "IEC104_TCP": "192.168.2.21:2404",
+  "IEC104_TCP": "192.168.1.100:2404",
   "TimePollRTU": 5
 }

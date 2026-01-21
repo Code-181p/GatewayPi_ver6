@@ -16909,7 +16909,7 @@
         "Unit": "V",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "Average Voltage LL",
@@ -16921,7 +16921,7 @@
         "Unit": "V",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "Current I1",
@@ -16933,7 +16933,7 @@
         "Unit": "A",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "Current I2",
@@ -16945,7 +16945,7 @@
         "Unit": "A",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "Current I3",
@@ -16957,7 +16957,7 @@
         "Unit": "A",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "Average Current",
@@ -16969,7 +16969,7 @@
         "Unit": "A",
         "Scale": 1,
         "Style": "MI",
-        "GI": 0
+        "GI": 1
       },
       {
         "Description": "kW1",
@@ -20833,7 +20833,31 @@
         "Unit": "-",
         "Scale": 1,
         "Style": "CFG",
-        "GI": 0
+        "GI": 1
+      },
+      {
+        "Description": "Password Min value: 0 Max value: 9998",
+        "IOA": 10100,
+        "Address": 10100,
+        "FC": 3,
+        "Length": 1,
+        "DataType": "U16",
+        "Unit": "-",
+        "Scale": 1,
+        "Style": "CFG",
+        "GI": 1
+      },
+      {
+        "Description": "Password Min value: 0 Max value: 9998",
+        "IOA": 10200,
+        "Address": 10200,
+        "FC": 3,
+        "Length": 1,
+        "DataType": "U16",
+        "Unit": "-",
+        "Scale": 1,
+        "Style": "CFG",
+        "GI": 1
       },
       {
         "Description": "N/W Selection Value: 0 Meaning: 3P4W",
@@ -20847,6 +20871,7 @@
         "Style": "CFG",
         "GI": 0
       },
+      
       {
         "Description": "CT Secondary Min value: 1 Max value: 5",
         "IOA": 10002,
@@ -21346,16 +21371,40 @@
         "GI": 1
     },
     {
+      "Description": "Phase A voltage",
+      "IOA": 1000,
+      "Address": 1000,
+      "FC": 3,
+      "Length": 2,
+      "DataType": "U16",
+      "Unit": "0.1V",
+      "Scale": 1,
+      "Style": "-",
+      "GI": 1
+    },
+    {
+      "Description": "Phase B voltage",
+      "IOA": 1001,
+      "Address": 1001,
+      "FC": 3,
+      "Length": 2,
+      "DataType": "U16",
+      "Unit": "0.1V",
+      "Scale": 1,
+      "Style": "-",
+      "GI": 1
+    },
+    {
       "Description": "Phase C voltage",
       "IOA": 1002,
       "Address": 1002,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "0.1V",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Residual current",
@@ -21363,11 +21412,11 @@
       "Address": 1003,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "mA",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase A current",
@@ -21375,11 +21424,11 @@
       "Address": 1004,
       "FC": 3,
       "Length": 4,
-      "DataType": "DWORD",
+      "DataType": "U16",
       "Unit": "0.1A",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase B current",
@@ -21387,11 +21436,11 @@
       "Address": 1006,
       "FC": 3,
       "Length": 4,
-      "DataType": "DWORD",
+      "DataType": "U16",
       "Unit": "0.1A",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase C current",
@@ -21399,11 +21448,11 @@
       "Address": 1008,
       "FC": 3,
       "Length": 4,
-      "DataType": "DWORD",
+      "DataType": "U16",
       "Unit": "0.1A",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase A current direction",
@@ -21411,11 +21460,11 @@
       "Address": 1010,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "-",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase B current direction",
@@ -21423,7 +21472,7 @@
       "Address": 1011,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "-",
       "Scale": 1,
       "Style": "-",
@@ -21435,7 +21484,7 @@
       "Address": 1012,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "-",
       "Scale": 1,
       "Style": "-",
@@ -21447,11 +21496,11 @@
       "Address": 1013,
       "FC": 3,
       "Length": 2,
-      "DataType": "WORD",
+      "DataType": "U16",
       "Unit": "-",
       "Scale": 1,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Total active power Psum",
@@ -21459,7 +21508,7 @@
       "Address": 1014,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01kW",
       "Scale": 0.01,
       "Style": "-",
@@ -21471,11 +21520,11 @@
       "Address": 1016,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01kW",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase B active power P2",
@@ -21483,11 +21532,11 @@
       "Address": 1018,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01kW",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase C active power P3",
@@ -21495,11 +21544,11 @@
       "Address": 1020,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01kW",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Total reactive power Qsum",
@@ -21507,7 +21556,7 @@
       "Address": 1022,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01KVar",
       "Scale": 0.01,
       "Style": "-",
@@ -21519,7 +21568,7 @@
       "Address": 1024,
       "FC": 3,
       "Length": 4,
-      "DataType": "LONG",
+      "DataType": "U16",
       "Unit": "0.01KVar",
       "Scale": 0.01,
       "Style": "-",
@@ -21615,11 +21664,11 @@
       "Address": 1039,
       "FC": 3,
       "Length": 2,
-      "DataType": "INTEGER",
+      "DataType": "U16",
       "Unit": "0.01",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase B power factor PF2",
@@ -21627,11 +21676,11 @@
       "Address": 1040,
       "FC": 3,
       "Length": 2,
-      "DataType": "INTEGER",
+      "DataType": "U16",
       "Unit": "0.01",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase C power factor PF3",
@@ -21639,11 +21688,11 @@
       "Address": 1041,
       "FC": 3,
       "Length": 2,
-      "DataType": "INTEGER",
+      "DataType": "U16",
       "Unit": "0.01",
       "Scale": 0.01,
       "Style": "-",
-      "GI": 0
+      "GI": 1
     },
     {
       "Description": "Phase A grid frequency",
